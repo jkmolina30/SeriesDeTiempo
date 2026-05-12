@@ -83,3 +83,9 @@ Aunque el modelo es útil para el corto plazo, tiene limitaciones:
 No considera tendencia.
 No incorpora estacionalidad.
 No tiene en cuenta variables externas que puedan afectar el empleo.
+
+
+Autores
+Santiago Tobar Bravo
+Diana Velasco Arce
+Juan Carlos Molina Lozano
