@@ -1,8 +1,11 @@
 Pronóstico del Número de Ocupados en las 13 Principales Ciudades de Colombia
 
 Integrantes:
+
 Juan Carlos Molina Lozano
+
 Santiago Tobar Bravo
+
 Diana Velasco Arce
 
 📌 Descripción del Proyecto
@@ -88,5 +91,7 @@ No tiene en cuenta variables externas que puedan afectar el empleo.
 Autores:
 
 Santiago Tobar Bravo
+
 Diana Velasco Arce
+
 Juan Carlos Molina Lozano
