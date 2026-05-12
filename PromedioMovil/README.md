@@ -85,7 +85,8 @@ No incorpora estacionalidad.
 No tiene en cuenta variables externas que puedan afectar el empleo.
 
 
-Autores
+Autores:
+
 Santiago Tobar Bravo
 Diana Velasco Arce
 Juan Carlos Molina Lozano
